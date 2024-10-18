@@ -1,0 +1,9 @@
+Identificacion;Nombre;Edad;Tipo_ID;Email;Celular;Estado;Curso;Evento
+3333333333;sofia;14;Tarjeta de identidad;sofia@gmail.com;1234512345;true;null;Ópera
+3333333333;sofia;14;Tarjeta de identidad;sofia@gamil.com;1234512345;true;null;Teatro
+3333333333;sofia;14;Tarjeta de identidad;sofia@gmail.com;1234512345;true;null;Danza
+7777777777;nane;17;Tarjeta de identidad;nane@gmail.com;1234512345;true;null;Danza
+1111111111;Karina Jiménez;19;Cédula;karina@gmail.com;1234512345;true;null;Danza
+1111111111;Karina Jiménez;19;Cédula;karina@gmail.com;1234512345;true;Piano;null
+1111111111;Karina Jiménez;19;Cédula;karina@gmail.com;1234512345;true;Dibujo;null
+1111111111;Karina Jiménez;19;Cédula;karina@gmail.com;1234512345;true;Baile Contemporáneo;null
